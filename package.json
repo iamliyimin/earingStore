@@ -1,0 +1,19 @@
+{
+  "name": "earingstore",
+  "version": "1.0.0",
+  "description": "a store sales earings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamliyimin/earingStore.git"
+  },
+  "author": "YimiLee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamliyimin/earingStore/issues"
+  },
+  "homepage": "https://github.com/iamliyimin/earingStore#readme"
+}
